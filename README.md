@@ -2,8 +2,8 @@
 <img   alt="mainGif" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 
 <h1 align="center">Hi <img   alt="mainGif" width="30" height="30" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"/> , I'm Sai </h1>
-<h3 align="center">A Passionate Frontend-Developer from India </h3>
-<img width="500" align="right"  alt="mainGif" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"/>
+<!-- <h3 align="center">A Passionate Frontend-Developer from India </h3> -->
+<!-- <img width="500" align="right"  alt="mainGif" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"/> -->
 
 
 
